@@ -1,0 +1,5 @@
+APIS
+	PAISES
+https://restcountries.eu/#api-endpoints-language
+	AUTORIZACION TOKEN SPOTI
+https://developer.spotify.com/documentation/general/guides/authorization-guide/
